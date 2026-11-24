@@ -1,0 +1,6 @@
+Pokedex number 78
+Name Rapidash
+Type fire
+Weaknesses ground rock water
+Description Very competitive, this POKéMON will chase anything that moves fast in the hopes of racing it. 
+

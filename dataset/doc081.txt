@@ -1,0 +1,6 @@
+Pokedex number 81
+Name Magnemite
+Type electric steel
+Weaknesses ground
+Description Uses anti-gravity to stay suspended. Appears without warning and uses THUNDER WAVE and similar moves. 
+

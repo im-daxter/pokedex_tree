@@ -1,0 +1,6 @@
+Pokedex number 21
+Name Spearow
+Type normal flying
+Weaknesses fighting
+Description Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne. 
+

@@ -1,0 +1,6 @@
+Pokedex number 29
+Name Nidoran-f
+Type poison
+Weaknesses ground psychic
+Description Although small, its venomous barbs render this POKéMON dangerous. The female has smaller horns. 
+

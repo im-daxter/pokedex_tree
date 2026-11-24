@@ -1,0 +1,6 @@
+Pokedex number 96
+Name Drowzee
+Type psychic
+Weaknesses bug ghost dark
+Description Puts enemies to sleep then eats their dreams. Occasionally gets sick from eating bad dreams. 
+

@@ -1,0 +1,6 @@
+Pokedex number 40
+Name Wigglytuff
+Type normal fairy
+Weaknesses fighting
+Description The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size. 
+

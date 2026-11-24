@@ -1,0 +1,6 @@
+Pokedex number 89
+Name Muk
+Type poison
+Weaknesses ground psychic
+Description Thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison. 
+

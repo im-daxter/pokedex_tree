@@ -1,0 +1,6 @@
+Pokedex number 62
+Name Poliwrath
+Type water fighting
+Weaknesses grass electric
+Description An adept swimmer at both the front crawl and breast stroke. Easily overtakes the best human swimmers. 
+

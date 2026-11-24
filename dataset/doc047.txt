@@ -1,0 +1,6 @@
+Pokedex number 47
+Name Parasect
+Type bug grass
+Weaknesses flying rock fire
+Description A host-parasite pair in which the parasite mushroom has taken over the host bug. Prefers damp places. 
+

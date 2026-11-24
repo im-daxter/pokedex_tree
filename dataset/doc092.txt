@@ -1,0 +1,6 @@
+Pokedex number 92
+Name Gastly
+Type ghost poison
+Weaknesses ghost dark
+Description Almost invisible, this gaseous POKéMON cloaks the target and puts it to sleep without notice. 
+

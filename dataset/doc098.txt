@@ -1,0 +1,6 @@
+Pokedex number 98
+Name Krabby
+Type water
+Weaknesses grass electric
+Description Its pincers are not only powerful weapons, they are used for balance when walking sideways. 
+

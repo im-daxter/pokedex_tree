@@ -1,0 +1,6 @@
+Pokedex number 34
+Name Nidoking
+Type poison ground
+Weaknesses ground psychic
+Description It uses its powerful tail in battle to smash, constrict, then break the prey's bones. 
+

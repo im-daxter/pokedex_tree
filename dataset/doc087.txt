@@ -1,0 +1,6 @@
+Pokedex number 87
+Name Dewgong
+Type water ice
+Weaknesses grass electric
+Description Stores thermal energy in its body. Swims at a steady 8 knots even in intensely cold waters. 
+

@@ -1,0 +1,6 @@
+Pokedex number 64
+Name Kadabra
+Type psychic
+Weaknesses bug ghost dark
+Description It emits special alpha waves from its body that induce headaches just by being close by. 
+

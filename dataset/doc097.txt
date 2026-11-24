@@ -1,0 +1,6 @@
+Pokedex number 97
+Name Hypno
+Type psychic
+Weaknesses bug ghost dark
+Description When it locks eyes with an enemy, it will use a mix of PSI moves such as HYPNOSIS and CONFUSION. 
+

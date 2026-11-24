@@ -1,0 +1,6 @@
+Pokedex number 53
+Name Persian
+Type normal
+Weaknesses fighting
+Description Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness. 
+

@@ -1,0 +1,6 @@
+Pokedex number 5
+Name Charmeleon
+Type fire
+Weaknesses ground rock water
+Description When it swings its burning tail, it elevates the temperature to unbearably high levels. 
+

@@ -1,0 +1,6 @@
+Pokedex number 86
+Name Seel
+Type water
+Weaknesses grass electric
+Description The protruding horn on its head is very hard. It is used for bashing through thick ice. 
+

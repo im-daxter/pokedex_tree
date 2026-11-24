@@ -1,0 +1,6 @@
+Pokedex number 45
+Name Vileplume
+Type grass poison
+Weaknesses flying poison bug fire ice
+Description The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up. 
+

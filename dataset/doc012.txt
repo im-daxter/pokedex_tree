@@ -1,0 +1,6 @@
+Pokedex number 12
+Name Butterfree
+Type bug flying
+Weaknesses flying rock fire
+Description In battle, it flaps its wings at high speed to release highly toxic dust into the air. 
+

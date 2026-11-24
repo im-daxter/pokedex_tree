@@ -1,0 +1,6 @@
+Pokedex number 26
+Name Raichu
+Type electric
+Weaknesses ground
+Description Its long tail serves as a ground to protect itself from its own high voltage power. 
+

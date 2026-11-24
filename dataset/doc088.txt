@@ -1,0 +1,6 @@
+Pokedex number 88
+Name Grimer
+Type poison
+Weaknesses ground psychic
+Description Appears in filthy areas. Thrives by sucking up polluted sludge that is pumped out of factories. 
+

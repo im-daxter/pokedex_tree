@@ -1,0 +1,6 @@
+Pokedex number 27
+Name Sandshrew
+Type ground
+Weaknesses water grass ice
+Description Burrows deep underground in arid locations far from water. It only emerges to hunt for food. 
+

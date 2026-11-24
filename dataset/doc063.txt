@@ -1,0 +1,6 @@
+Pokedex number 63
+Name Abra
+Type psychic
+Weaknesses bug ghost dark
+Description Using its ability to read minds, it will identify impending danger and TELEPORT to safety. 
+

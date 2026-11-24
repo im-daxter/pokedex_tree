@@ -1,0 +1,6 @@
+Pokedex number 91
+Name Cloyster
+Type water ice
+Weaknesses grass electric
+Description When attacked, it launches its horns in quick volleys. Its innards have never been seen. 
+

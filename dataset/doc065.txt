@@ -1,0 +1,6 @@
+Pokedex number 65
+Name Alakazam
+Type psychic
+Weaknesses bug ghost dark
+Description Its brain can out­ perform a super­ computer. Its intelligence quotient is said to be 5,000. 
+

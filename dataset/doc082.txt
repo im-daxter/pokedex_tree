@@ -1,0 +1,6 @@
+Pokedex number 82
+Name Magneton
+Type electric steel
+Weaknesses ground
+Description Formed by several MAGNEMITEs linked together. They frequently appear when sunspots flare up. 
+

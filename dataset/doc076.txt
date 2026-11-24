@@ -1,0 +1,6 @@
+Pokedex number 76
+Name Golem
+Type rock ground
+Weaknesses fighting ground steel water grass
+Description Its boulder-like body is extremely hard. It can easily withstand dynamite blasts without damage. 
+

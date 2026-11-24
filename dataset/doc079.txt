@@ -1,0 +1,6 @@
+Pokedex number 79
+Name Slowpoke
+Type water psychic
+Weaknesses grass electric
+Description Incredibly slow and dopey. It takes 5 seconds for it to feel pain when under attack. 
+

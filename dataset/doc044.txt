@@ -1,0 +1,6 @@
+Pokedex number 44
+Name Gloom
+Type grass poison
+Weaknesses flying poison bug fire ice
+Description The fluid that oozes from its mouth isn't drool. It is a nectar that is used to attract prey. 
+

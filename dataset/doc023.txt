@@ -1,0 +1,6 @@
+Pokedex number 23
+Name Ekans
+Type poison
+Weaknesses ground psychic
+Description Moves silently and stealthily. Eats the eggs of birds, such as PIDGEY and SPEAROW, whole. 
+

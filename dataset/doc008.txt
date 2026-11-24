@@ -1,0 +1,6 @@
+Pokedex number 8
+Name Wartortle
+Type water
+Weaknesses grass electric
+Description Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance. 
+

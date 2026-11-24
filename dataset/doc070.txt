@@ -1,0 +1,6 @@
+Pokedex number 70
+Name Weepinbell
+Type grass poison
+Weaknesses flying poison bug fire ice
+Description It spits out POISONPOWDER to immobilize the enemy and then finishes it with a spray of ACID. 
+

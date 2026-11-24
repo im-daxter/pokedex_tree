@@ -1,0 +1,6 @@
+Pokedex number 33
+Name Nidorino
+Type poison
+Weaknesses ground psychic
+Description An aggressive POKéMON that is quick to attack. The horn on its head secretes a powerful venom. 
+

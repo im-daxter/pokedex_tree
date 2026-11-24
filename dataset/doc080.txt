@@ -1,0 +1,6 @@
+Pokedex number 80
+Name Slowbro
+Type water psychic
+Weaknesses grass electric
+Description The SHELLDER that is latched onto SLOWPOKE's tail is said to feed on the host's left over scraps. 
+

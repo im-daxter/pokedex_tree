@@ -1,0 +1,6 @@
+Pokedex number 36
+Name Clefable
+Type fairy
+Weaknesses poison steel
+Description A timid fairy POKéMON that is rarely seen. It will run and hide the moment it senses people. 
+

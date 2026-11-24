@@ -1,0 +1,6 @@
+Pokedex number 100
+Name Voltorb
+Type electric
+Weaknesses ground
+Description Usually found in power plants. Easily mistaken for a POKé BALL, they have zapped many people. 
+

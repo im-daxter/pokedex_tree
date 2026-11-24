@@ -1,0 +1,6 @@
+Pokedex number 73
+Name Tentacruel
+Type water poison
+Weaknesses grass electric
+Description The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey. 
+

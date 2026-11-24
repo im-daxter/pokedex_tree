@@ -1,0 +1,6 @@
+Pokedex number 95
+Name Onix
+Type rock ground
+Weaknesses fighting ground steel water grass
+Description As it grows, the stone portions of its body harden to become similar to a diamond, but colored black. 
+

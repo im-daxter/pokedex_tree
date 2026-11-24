@@ -1,0 +1,6 @@
+Pokedex number 14
+Name Kakuna
+Type bug poison
+Weaknesses flying rock fire
+Description Almost incapable of moving, this POKéMON can only harden its shell to protect itself from predators. 
+

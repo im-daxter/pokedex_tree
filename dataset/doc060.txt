@@ -1,0 +1,6 @@
+Pokedex number 60
+Name Poliwag
+Type water
+Weaknesses grass electric
+Description Its newly grown legs prevent it from running. It appears to prefer swimming than trying to stand. 
+

@@ -1,0 +1,6 @@
+Pokedex number 93
+Name Haunter
+Type ghost poison
+Weaknesses ghost dark
+Description Because of its ability to slip through block walls, it is said to be from an­ other dimension. 
+

@@ -1,0 +1,6 @@
+Pokedex number 43
+Name Oddish
+Type grass poison
+Weaknesses flying poison bug fire ice
+Description During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds. 
+

@@ -1,0 +1,6 @@
+Pokedex number 15
+Name Beedrill
+Type bug poison
+Weaknesses flying rock fire
+Description Flies at high speed and attacks using its large venomous stingers on its forelegs and tail. 
+

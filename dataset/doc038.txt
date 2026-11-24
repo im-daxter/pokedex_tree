@@ -1,0 +1,6 @@
+Pokedex number 38
+Name Ninetales
+Type fire
+Weaknesses ground rock water
+Description Very smart and very vengeful. Grabbing one of its many tails could result in a 1000-year curse. 
+

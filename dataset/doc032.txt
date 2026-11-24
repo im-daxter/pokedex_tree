@@ -1,0 +1,6 @@
+Pokedex number 32
+Name Nidoran-m
+Type poison
+Weaknesses ground psychic
+Description Stiffens its ears to sense danger. The larger its horns, the more powerful its secreted venom. 
+

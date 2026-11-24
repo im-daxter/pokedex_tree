@@ -1,0 +1,6 @@
+Pokedex number 84
+Name Doduo
+Type normal flying
+Weaknesses fighting
+Description A bird that makes up for its poor flying with its fast foot speed. Leaves giant footprints. 
+

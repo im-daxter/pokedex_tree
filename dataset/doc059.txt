@@ -1,0 +1,6 @@
+Pokedex number 59
+Name Arcanine
+Type fire
+Weaknesses ground rock water
+Description A POKéMON that has been admired since the past for its beauty. It runs agilely as if on wings. 
+

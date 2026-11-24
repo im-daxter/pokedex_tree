@@ -1,0 +1,6 @@
+Pokedex number 74
+Name Geodude
+Type rock ground
+Weaknesses fighting ground steel water grass
+Description Found in fields and mountains. Mistaking them for boulders, people often step or trip on them. 
+

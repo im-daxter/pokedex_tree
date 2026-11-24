@@ -1,0 +1,6 @@
+Pokedex number 31
+Name Nidoqueen
+Type poison ground
+Weaknesses ground psychic
+Description Its hard scales provide strong protection. It uses its hefty bulk to execute powerful moves. 
+

@@ -1,0 +1,6 @@
+Pokedex number 10
+Name Caterpie
+Type bug
+Weaknesses flying rock fire
+Description Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls. 
+

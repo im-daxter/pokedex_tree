@@ -1,0 +1,6 @@
+Pokedex number 77
+Name Ponyta
+Type fire
+Weaknesses ground rock water
+Description Its hooves are 10 times harder than diamonds. It can trample anything completely flat in little time. 
+

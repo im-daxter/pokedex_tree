@@ -1,0 +1,6 @@
+Pokedex number 71
+Name Victreebel
+Type grass poison
+Weaknesses flying poison bug fire ice
+Description Said to live in huge colonies deep in jungles, although no one has ever returned from there. 
+

@@ -1,0 +1,6 @@
+Pokedex number 55
+Name Golduck
+Type water
+Weaknesses grass electric
+Description Often seen swim­ ming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa. 
+

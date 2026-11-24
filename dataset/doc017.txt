@@ -1,0 +1,6 @@
+Pokedex number 17
+Name Pidgeotto
+Type normal flying
+Weaknesses fighting
+Description Very protective of its sprawling territorial area, this POKéMON will fiercely peck at any intruder. 
+

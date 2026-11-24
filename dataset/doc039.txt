@@ -1,0 +1,6 @@
+Pokedex number 39
+Name Jigglypuff
+Type normal fairy
+Weaknesses fighting
+Description When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep. 
+

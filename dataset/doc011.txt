@@ -1,0 +1,6 @@
+Pokedex number 11
+Name Metapod
+Type bug
+Weaknesses flying rock fire
+Description This POKéMON is vulnerable to attack while its shell is soft, exposing its weak and tender body. 
+

@@ -1,0 +1,6 @@
+Pokedex number 61
+Name Poliwhirl
+Type water
+Weaknesses grass electric
+Description Capable of living in or out of water. When out of water, it sweats to keep its body slimy. 
+

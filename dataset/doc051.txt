@@ -1,0 +1,6 @@
+Pokedex number 51
+Name Dugtrio
+Type ground
+Weaknesses water grass ice
+Description A team of DIGLETT triplets. It triggers huge earthquakes by burrowing 60 miles underground. 
+

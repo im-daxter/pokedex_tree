@@ -1,0 +1,6 @@
+Pokedex number 19
+Name Rattata
+Type normal
+Weaknesses fighting
+Description Bites anything when it attacks. Small and very quick, it is a common sight in many places. 
+

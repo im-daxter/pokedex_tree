@@ -1,0 +1,6 @@
+Pokedex number 35
+Name Clefairy
+Type fairy
+Weaknesses poison steel
+Description Its magical and cute appeal has many admirers. It is rare and found only in certain areas. 
+

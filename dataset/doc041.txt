@@ -1,0 +1,6 @@
+Pokedex number 41
+Name Zubat
+Type poison flying
+Weaknesses ground psychic
+Description Forms colonies in perpetually dark places. Uses ultrasonic waves to identify and approach targets. 
+

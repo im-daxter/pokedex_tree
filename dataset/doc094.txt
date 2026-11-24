@@ -1,0 +1,6 @@
+Pokedex number 94
+Name Gengar
+Type ghost poison
+Weaknesses ghost dark
+Description Under a full moon, this POKéMON likes to mimic the shadows of people and laugh at their fright. 
+

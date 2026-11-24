@@ -1,0 +1,6 @@
+Pokedex number 72
+Name Tentacool
+Type water poison
+Weaknesses grass electric
+Description Drifts in shallow seas. Anglers who hook them by accident are often punished by its stinging acid. 
+

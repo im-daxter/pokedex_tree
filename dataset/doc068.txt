@@ -1,0 +1,6 @@
+Pokedex number 68
+Name Machamp
+Type fighting
+Weaknesses flying psychic fairy
+Description Using its heavy muscles, it throws powerful punches that can send the victim clear over the horizon. 
+

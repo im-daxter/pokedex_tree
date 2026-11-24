@@ -1,0 +1,6 @@
+Pokedex number 99
+Name Kingler
+Type water
+Weaknesses grass electric
+Description The large pincer has 10000 hp of crushing power. However, its huge size makes it unwieldy to use. 
+

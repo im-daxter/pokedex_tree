@@ -1,0 +1,6 @@
+Pokedex number 52
+Name Meowth
+Type normal
+Weaknesses fighting
+Description Adores circular objects. Wanders the streets on a nightly basis to look for dropped loose change. 
+

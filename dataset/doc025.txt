@@ -1,0 +1,6 @@
+Pokedex number 25
+Name Pikachu
+Type electric
+Weaknesses ground
+Description When several of these POKéMON gather, their electricity could build and cause lightning storms. 
+
